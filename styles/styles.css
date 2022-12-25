@@ -1,0 +1,31 @@
+.logo-name {
+    border-style: solid;
+    display: inline-block;
+}
+
+.navbar {
+    float: right;
+    background-color: seagreen;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 25px;
+    color: white;
+    font-size: 25px
+  }
+
+  li a:hover {
+    color: black;
+  }
